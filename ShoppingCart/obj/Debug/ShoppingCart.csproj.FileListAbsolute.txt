@@ -1,0 +1,117 @@
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\ShoppingCart.dll.config
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\ShoppingCart.dll
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\ShoppingCart.pdb
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\Antlr3.Runtime.dll
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\AutoMapper.dll
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\AutoMapper.Net4.dll
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\EntityFramework.dll
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\EntityFramework.SqlServer.dll
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\Microsoft.Web.Infrastructure.dll
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\Newtonsoft.Json.dll
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\System.Net.Http.Formatting.dll
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\System.Web.Helpers.dll
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\System.Web.Http.dll
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\System.Web.Http.WebHost.dll
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\System.Web.Mvc.dll
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\System.Web.Optimization.dll
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\System.Web.Razor.dll
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\System.Web.WebPages.Deployment.dll
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\System.Web.WebPages.dll
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\System.Web.WebPages.Razor.dll
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\WebGrease.dll
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\Antlr3.Runtime.pdb
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\AutoMapper.xml
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\EntityFramework.xml
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\EntityFramework.SqlServer.xml
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\Newtonsoft.Json.xml
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\System.Net.Http.Formatting.xml
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\System.Web.Helpers.xml
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\System.Web.Http.xml
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\System.Web.Http.WebHost.xml
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\System.Web.Mvc.xml
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\System.Web.Razor.xml
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\System.Web.WebPages.xml
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\System.Web.WebPages.Deployment.xml
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\System.Web.WebPages.Razor.xml
+C:\GitHub\shoppingcart\part4\ShoppingCart\bin\System.Web.Optimization.xml
+C:\GitHub\shoppingcart\part4\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\GitHub\shoppingcart\part4\ShoppingCart\obj\Debug\ShoppingCart.dll
+C:\GitHub\shoppingcart\part4\ShoppingCart\obj\Debug\ShoppingCart.pdb
+E:\BaiduYunDownload\part4\ShoppingCart\bin\ShoppingCart.dll.config
+E:\BaiduYunDownload\part4\ShoppingCart\bin\ShoppingCart.dll
+E:\BaiduYunDownload\part4\ShoppingCart\bin\ShoppingCart.pdb
+E:\BaiduYunDownload\part4\ShoppingCart\bin\Antlr3.Runtime.dll
+E:\BaiduYunDownload\part4\ShoppingCart\bin\AutoMapper.dll
+E:\BaiduYunDownload\part4\ShoppingCart\bin\AutoMapper.Net4.dll
+E:\BaiduYunDownload\part4\ShoppingCart\bin\EntityFramework.dll
+E:\BaiduYunDownload\part4\ShoppingCart\bin\EntityFramework.SqlServer.dll
+E:\BaiduYunDownload\part4\ShoppingCart\bin\Microsoft.Web.Infrastructure.dll
+E:\BaiduYunDownload\part4\ShoppingCart\bin\Newtonsoft.Json.dll
+E:\BaiduYunDownload\part4\ShoppingCart\bin\System.Net.Http.Formatting.dll
+E:\BaiduYunDownload\part4\ShoppingCart\bin\System.Web.Helpers.dll
+E:\BaiduYunDownload\part4\ShoppingCart\bin\System.Web.Http.dll
+E:\BaiduYunDownload\part4\ShoppingCart\bin\System.Web.Http.WebHost.dll
+E:\BaiduYunDownload\part4\ShoppingCart\bin\System.Web.Mvc.dll
+E:\BaiduYunDownload\part4\ShoppingCart\bin\System.Web.Optimization.dll
+E:\BaiduYunDownload\part4\ShoppingCart\bin\System.Web.Razor.dll
+E:\BaiduYunDownload\part4\ShoppingCart\bin\System.Web.WebPages.Deployment.dll
+E:\BaiduYunDownload\part4\ShoppingCart\bin\System.Web.WebPages.dll
+E:\BaiduYunDownload\part4\ShoppingCart\bin\System.Web.WebPages.Razor.dll
+E:\BaiduYunDownload\part4\ShoppingCart\bin\WebGrease.dll
+E:\BaiduYunDownload\part4\ShoppingCart\bin\Antlr3.Runtime.pdb
+E:\BaiduYunDownload\part4\ShoppingCart\bin\AutoMapper.xml
+E:\BaiduYunDownload\part4\ShoppingCart\bin\EntityFramework.xml
+E:\BaiduYunDownload\part4\ShoppingCart\bin\EntityFramework.SqlServer.xml
+E:\BaiduYunDownload\part4\ShoppingCart\bin\Newtonsoft.Json.xml
+E:\BaiduYunDownload\part4\ShoppingCart\bin\System.Net.Http.Formatting.xml
+E:\BaiduYunDownload\part4\ShoppingCart\bin\System.Web.Helpers.xml
+E:\BaiduYunDownload\part4\ShoppingCart\bin\System.Web.Http.xml
+E:\BaiduYunDownload\part4\ShoppingCart\bin\System.Web.Http.WebHost.xml
+E:\BaiduYunDownload\part4\ShoppingCart\bin\System.Web.Mvc.xml
+E:\BaiduYunDownload\part4\ShoppingCart\bin\System.Web.Razor.xml
+E:\BaiduYunDownload\part4\ShoppingCart\bin\System.Web.WebPages.xml
+E:\BaiduYunDownload\part4\ShoppingCart\bin\System.Web.WebPages.Deployment.xml
+E:\BaiduYunDownload\part4\ShoppingCart\bin\System.Web.WebPages.Razor.xml
+E:\BaiduYunDownload\part4\ShoppingCart\bin\System.Web.Optimization.xml
+E:\BaiduYunDownload\part4\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+E:\BaiduYunDownload\part4\ShoppingCart\obj\Debug\ShoppingCart.dll
+E:\BaiduYunDownload\part4\ShoppingCart\obj\Debug\ShoppingCart.pdb
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\AutoMapper.Net4.dll
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\ShoppingCart.dll.config
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\ShoppingCart.dll
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\ShoppingCart.pdb
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\Antlr3.Runtime.dll
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\AutoMapper.dll
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\EntityFramework.dll
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\EntityFramework.SqlServer.dll
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\Microsoft.Web.Infrastructure.dll
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\Newtonsoft.Json.dll
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\System.Net.Http.Formatting.dll
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\System.Web.Helpers.dll
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\System.Web.Http.dll
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\System.Web.Http.WebHost.dll
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\System.Web.Mvc.dll
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\System.Web.Optimization.dll
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\System.Web.Razor.dll
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\System.Web.WebPages.Deployment.dll
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\System.Web.WebPages.dll
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\System.Web.WebPages.Razor.dll
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\WebGrease.dll
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\Antlr3.Runtime.pdb
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\AutoMapper.xml
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\EntityFramework.xml
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\EntityFramework.SqlServer.xml
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\Newtonsoft.Json.xml
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\System.Net.Http.Formatting.xml
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\System.Web.Helpers.xml
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\System.Web.Http.xml
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\System.Web.Http.WebHost.xml
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\System.Web.Mvc.xml
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\System.Web.Razor.xml
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\System.Web.WebPages.xml
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\System.Web.WebPages.Deployment.xml
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\System.Web.WebPages.Razor.xml
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\bin\System.Web.Optimization.xml
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\obj\Debug\ShoppingCart.dll
+E:\Documents\ASP.Net Books\MVC\ASP.NET.MVC.5.with.Bootstrap.and.Knockout.js\part4\ShoppingCart\obj\Debug\ShoppingCart.pdb
